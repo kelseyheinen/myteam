@@ -1,0 +1,8 @@
+.jumbotron {
+    /* Background */
+    background-attachment: fixed;
+    background-image: url(indiansbanner.png);
+    background-repeat: no-repeat;
+    background-size: 100% 50%;
+
+}
